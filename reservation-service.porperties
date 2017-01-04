@@ -1,0 +1,4 @@
+server.port ${8000}
+message = Hello, this is a test message
+
+spring.cloud.stream.bindings.input=reservations
